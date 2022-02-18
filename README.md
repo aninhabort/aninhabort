@@ -1,7 +1,7 @@
 # Olá! Eu sou a Ana Carolina 
 
-- Cursando Arquitetura e Urbanismo
-- Estou estudando JavaScript
+- Graduada em Arquitetura e Urbanismo
+- Estudando Desenvolvimento Web no Trybe
 - Pronouns: ela/dela
 
 <div>
