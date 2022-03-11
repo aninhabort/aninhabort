@@ -1,6 +1,6 @@
 # Olá! Eu sou a Ana Carolina 
 
-- Graduada em Arquitetura e Urbanismo
+- Bacharel em Arquitetura e Urbanismo
 - Estudando Desenvolvimento Web no Trybe
 - Pronouns: ela/dela
 
