@@ -5,8 +5,6 @@
 - Pronouns: ela/dela
 
 ## Contact me
-[![TWITCH](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/aninhabort)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:carol2015bortolini@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23E44D27?style=rounded&logo=linkedin&logoColor=ffffff&color=0077B5)](https://www.linkedin.com/in/ana-c-b-magalhaes/)
 
 ## Statistics
