@@ -9,7 +9,7 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:carol2015bortolini@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23E44D27?style=rounded&logo=linkedin&logoColor=ffffff&color=0077B5)](https://www.linkedin.com/in/ana-c-b-magalhaes/)
 
-## Statitics
+## Statistics
 [![Ana's Github Stats](https://github-readme-stats.vercel.app/api?username=aninhabort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/aninhabort)
 [![Ana's Github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&layout=compact&langs_count=7&theme=dracula)](https://github.com/aninhabort)
  
