@@ -16,6 +16,8 @@
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=dracula)](https://github.com/aninhabort/github-readme-stats)
+  
 ##
 <div>
  	<a href="https://www.twitch.tv/aninhabort" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
