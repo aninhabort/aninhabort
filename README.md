@@ -25,6 +25,6 @@
 ## Statistics
 [![Ana's Github Stats](https://github-readme-stats.vercel.app/api?username=aninhabort&show_icons=true&theme=minimal&include_all_commits=true&count_private=true)]
 [![Ana's Github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&layout=compact&langs_count=7&theme=minimal)]
-[![Ana's trofy](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aninhabort&theme=minimal)]
+[![Ana's profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aninhabort&theme=vue)]
 
 
