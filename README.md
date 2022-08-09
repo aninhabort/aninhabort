@@ -2,7 +2,7 @@
 
 - Bacharel em Arquitetura e Urbanismo
 - Estudando Desenvolvimento Web no Trybe
-- Idiomas: Portugues (fluente), inglês (intermediário), Alemão (Aprendendo)
+- Idiomas: Portugues (fluente), inglês (intermediário)
 - Pronouns: ela/dela
 
 ## Contact me
