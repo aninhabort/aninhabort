@@ -1,9 +1,9 @@
-# Olá! Eu sou a Ana Carolina 
+# Hello! I'm Ana Carolina 
 
-- Bacharel em Arquitetura e Urbanismo
-- Estudando Desenvolvimento Web no Trybe
-- Idiomas: Portugues (fluente), inglês (intermediário)
-- Pronouns: ela/dela
+- Bachelor of Architecture and Urbanism
+- Studying Web Development at Trybe
+- Languages: Portuguese (fluent), English (intermediate)
+- Pronouns: she/her
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-c-b-magalhaes/)
