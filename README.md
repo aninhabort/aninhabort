@@ -7,6 +7,7 @@
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23E44D27?style=rounded&logo=linkedin&logoColor=ffffff&color=0077B5)](https://www.linkedin.com/in/ana-c-b-magalhaes/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carol2015bortolini@gmail.com)
 
  ## My Stack
  ### Languages and Frameworks
