@@ -25,6 +25,8 @@
 
 ## Statistics
 ![Ana's Github Stats](https://github-readme-stats.vercel.app/api?username=aninhabort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+## Top Languages
 ![Ana's Github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&layout=compact&langs_count=7&theme=dracula)
 
 
