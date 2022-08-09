@@ -25,8 +25,8 @@
 ## Statistics
 [![Ana's Github Stats](https://github-readme-stats.vercel.app/api?username=aninhabort&show_icons=true&theme=minimal&include_all_commits=true&count_private=true)](https://github.com/aninhabort)
 [![Ana's Github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&layout=compact&langs_count=7&theme=minimal)
-[![Ana's activity graph]](https://activity-graph.herokuapp.com/graph?username={aninhabort}&theme=minimal)
-[![Ana's activity graph]](https://github-readme-streak-stats.herokuapp.com/?user={aninhabort})
-[![Ana's bages]](https://github-profile-trophy.vercel.app/?username={aninhabort})
+[![Ana's activity graph]](https://activity-graph.herokuapp.com/graph?username=aninhabort&theme=minimal)
+[![Ana's activity graph]](https://github-readme-streak-stats.herokuapp.com/?user=aninhabort)
+[![Ana's bages]](https://github-profile-trophy.vercel.app/?username=aninhabort)
 
 
