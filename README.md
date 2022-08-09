@@ -20,7 +20,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ## Learning
-![SQL] (https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ## Statistics
 [![Ana's Github Stats](https://github-readme-stats.vercel.app/api?username=aninhabort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/aninhabort)
