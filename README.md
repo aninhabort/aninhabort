@@ -8,9 +8,6 @@
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-c-b-magalhaes/)
 
-## Portfolio
-[![Codesanxbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/aninhabort)
-
  ## My Stack
  ### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,6 +34,9 @@
 
 ## Top Languages
 ![Ana's Github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=dracula)
+
+## Portfolio
+[![Codesanxbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/aninhabort)
 
 
 
