@@ -4,7 +4,7 @@ Hi there, I'm Ana Carolina 👋
 </h3>
 
 <h2 align="center">
-I'm a Bachelor of Architecture and Urbanism, currently studying Web Development at Trybe
+I'm a Bachelor of Architecture and Urbanism 📐, currently studying Web Development 💻 at Trybe
 </h2> 
 <h4 align="center">
   Languages: Portuguese (fluent), English (intermediate)
@@ -27,9 +27,9 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
 ### Tools
 ![mySkiils](https://skills.thijs.gg/icons?i=git,github&theme=dark)
 
-## Statistics
+## Statistics 📈
 ![Ana's Github Stats](https://github-readme-stats.vercel.app/api?username=aninhabort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![Ana's Github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=dracula)
 
-## Portfolio
+## Portfolio 📝
 [![Codesanxbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/aninhabort)
