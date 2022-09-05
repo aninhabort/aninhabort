@@ -16,8 +16,10 @@
   ### Framework
 [![My Skills](https://skills.thijs.gg/icons?i=jest,react,redux&theme=dark)](https://skills.thijs.gg)
 
-  ### Tools
-[![My Skills](https://skills.thijs.gg/icons?i=git,github&theme=dark)](https://skills.thijs.gg)
+<div align="right">
+  <h3>Tools</h3>
+  <img src="https://skills.thijs.gg/icons?i=git,github&theme=dark">
+</div>
 
   ### Learning
 [![My Skills](https://skills.thijs.gg/icons?i=docker,mysql&theme=dark)](https://skills.thijs.gg)
