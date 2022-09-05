@@ -10,18 +10,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-c-b-magalhaes/)
 
 ## My Stack
-  ### Languages
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js&theme=dark)](https://skills.thijs.gg)
+<div>
+    <h3>Languages</h3>
+    <img src="https://skills.thijs.gg/icons?i=html,css,js&theme=dark">
 
-  ### Framework
-[![My Skills](https://skills.thijs.gg/icons?i=jest,react,redux&theme=dark)](https://skills.thijs.gg)
+    <h3>Framework</h3>
+    <img src="https://skills.thijs.gg/icons?i=jest,react,redux&theme=dark">
 
-<div align="right">
-  <h3>Tools</h3>
-  <img src="https://skills.thijs.gg/icons?i=git,github&theme=dark">
+  <div align="right">
+    <h3>Tools</h3>
+    <img src="https://skills.thijs.gg/icons?i=git,github&theme=dark">
   
-  <h3>Learning</h3>
-  <img src="https://skills.thijs.gg/icons?i=docker,mysql&theme=dark">
+    <h3>Learning</h3>
+    <img src="https://skills.thijs.gg/icons?i=docker,mysql&theme=dark">
+  </div>
 </div>
 
 ## Statistics
