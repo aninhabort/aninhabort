@@ -16,12 +16,11 @@
   ### Framework
 [![My Skills](https://skills.thijs.gg/icons?i=jest,react,redux&theme=dark)](https://skills.thijs.gg)
 
-<div align="right">
   ### Tools
 [![My Skills](https://skills.thijs.gg/icons?i=git,github&theme=dark)](https://skills.thijs.gg)
+
   ### Learning
 [![My Skills](https://skills.thijs.gg/icons?i=docker,mysql&theme=dark)](https://skills.thijs.gg)
-</div>
 
 ## Statistics
 ![Ana's Github Stats](https://github-readme-stats.vercel.app/api?username=aninhabort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
@@ -29,6 +28,3 @@
 
 ## Portfolio
 [![Codesanxbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/aninhabort)
-
-
-
