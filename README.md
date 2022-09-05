@@ -1,5 +1,5 @@
 # Hello! I'm Ana Carolina
-<img align="right" width="250px" style="margin-top:-10px" src="https://user-images.githubusercontent.com/84690257/188514618-d1d03529-1a30-4e51-8d22-a1359117732f.png">
+<img align="right" width="250px" style="margin-top:10px" src="https://user-images.githubusercontent.com/84690257/188514618-d1d03529-1a30-4e51-8d22-a1359117732f.png">
 
 - Bachelor of Architecture and Urbanism
 - Studying Web Development at Trybe
