@@ -4,7 +4,7 @@ Hi there, I'm Ana Carolina 👋
 </h3>
 
 <h2 align="center">
-I'm a Bachelor of Architecture and Urbanism 📐, currently studying Web Development 💻 at Trybe
+I'm a Bachelor of Architecture and Urbanism, currently studying Web Development at Trybe
 </h2> 
 <h4 align="center">
   Languages: Portuguese (fluent), English (intermediate)
@@ -15,17 +15,23 @@ I'm a Bachelor of Architecture and Urbanism 📐, currently studying Web Develop
 <br>
 
 ## Currently Learning 🌱
-![mySkills](https://skills.thijs.gg/icons?i=docker,mysql&theme=dark)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## My Skills 💼
 ### Languages
-![mySkills](https://skills.thijs.gg/icons?i=html,css,js&theme=dark)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Framework
-![mySkills](https://skills.thijs.gg/icons?i=jest,react,redux&theme=dark)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Tools
-![mySkiils](https://skills.thijs.gg/icons?i=git,github&theme=dark)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## Statistics 📈
 ![Ana's Github Stats](https://github-readme-stats.vercel.app/api?username=aninhabort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
@@ -33,3 +39,5 @@ I'm a Bachelor of Architecture and Urbanism 📐, currently studying Web Develop
 
 ## Portfolio 📝
 [![Codesanxbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/aninhabort)
+
+<img src="https://komarev.com/ghpvc/?username=aninhabort"/>
