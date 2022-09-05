@@ -10,17 +10,16 @@
 
 ## My Stack
   ### Languages
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js&theme=dark)](https://skills.thijs.gg)
 
   ### Framework
-[![My Skills](https://skills.thijs.gg/icons?i=jest,react,redux&theme=light)](https://skills.thijs.gg)
-![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+[![My Skills](https://skills.thijs.gg/icons?i=jest,react,redux&theme=dark)](https://skills.thijs.gg)
 
   ### Tools
-[![My Skills](https://skills.thijs.gg/icons?i=git,github&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,github&theme=dark)](https://skills.thijs.gg)
 
   ### Learning
-[![My Skills](https://skills.thijs.gg/icons?i=docker,mysql&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=docker,mysql&theme=dark)](https://skills.thijs.gg)
 
 ## Statistics
 ![Ana's Github Stats](https://github-readme-stats.vercel.app/api?username=aninhabort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
