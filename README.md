@@ -16,7 +16,7 @@
   ### Framework
 [![My Skills](https://skills.thijs.gg/icons?i=jest,react,redux&theme=dark)](https://skills.thijs.gg)
 
-<div align="right" style="margin-right=20px">
+<div align="right">
   <h3>Tools</h3>
   <img src="https://skills.thijs.gg/icons?i=git,github&theme=dark">
   
