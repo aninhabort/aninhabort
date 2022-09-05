@@ -13,6 +13,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js&theme=light)](https://skills.thijs.gg)
 
   ### Framework
+[![My Skills](https://skills.thijs.gg/icons?i=jest,react,redux&theme=light)](https://skills.thijs.gg)
 ![jEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
