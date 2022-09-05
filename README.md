@@ -4,25 +4,22 @@
 - Bachelor of Architecture and Urbanism
 - Studying Web Development at Trybe
 - Languages: Portuguese (fluent), English (intermediate)
-- Pronouns: she/her
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-c-b-magalhaes/)
 
 ## My Stack
-<div>
-    <h3>Languages</h3>
-    <img src="https://skills.thijs.gg/icons?i=html,css,js&theme=dark">
+### Languages
+![mySkills](https://skills.thijs.gg/icons?i=html,css,js&theme=dark)
 
-    <h3>Framework</h3>
-    <img src="https://skills.thijs.gg/icons?i=jest,react,redux&theme=dark">
+### Framework
+![mySkills](https://skills.thijs.gg/icons?i=jest,react,redux&theme=dark)
 
-    <h3>Tools</h3>
-    <img src="https://skills.thijs.gg/icons?i=git,github&theme=dark">
-  
-    <h3>Learning</h3>
-    <img src="https://skills.thijs.gg/icons?i=docker,mysql&theme=dark">
-</div>
+### Tools
+![mySkiils](https://skills.thijs.gg/icons?i=git,github&theme=dark)
+
+### Learning
+![mySkills](https://skills.thijs.gg/icons?i=docker,mysql&theme=dark)
 
 ## Statistics
 ![Ana's Github Stats](https://github-readme-stats.vercel.app/api?username=aninhabort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
