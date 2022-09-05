@@ -17,13 +17,11 @@
     <h3>Framework</h3>
     <img src="https://skills.thijs.gg/icons?i=jest,react,redux&theme=dark">
 
-  <div align="right">
     <h3>Tools</h3>
     <img src="https://skills.thijs.gg/icons?i=git,github&theme=dark">
   
     <h3>Learning</h3>
     <img src="https://skills.thijs.gg/icons?i=docker,mysql&theme=dark">
-  </div>
 </div>
 
 ## Statistics
