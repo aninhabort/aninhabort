@@ -13,7 +13,7 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
 ### Contact me 🤝
 <a target="_blank" href="https://www.linkedin.com/in/ana-c-b-magalhaes/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ana Carolina | LinkedIn" width="21px"/></a>
 <a target="_blank" href="carol2015bortolini@gmail.com">
-  <img align="left" alt="Ana Carolina | Gmail" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Ana Carolina | Gmail" width="21px" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/gmail.svg" />
 </a>
 <br>
 
