@@ -42,6 +42,7 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
 
 ## Portfolio 📝
 [![Codesanxbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/aninhabort)
+<br>
 <a target="_blank" href="https://aninhabort.github.io/">
-  ### Portfolio
+  Portfolio
 </a>
