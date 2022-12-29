@@ -16,7 +16,7 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
 <br>
 
 ## Currently Learning 🌱
-![TypeScript]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white))
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ## My Skills 💼
