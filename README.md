@@ -46,5 +46,5 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
 <a target="_blank" href="https://aninhabort.github.io/">
   <img style="width: 50px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png">
 </a>
-<br>
+
 [![Codesanxbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/aninhabort)
