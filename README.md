@@ -43,7 +43,7 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
 
 [![Codesanxbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/aninhabort)
 
-### Contact me 📫
+## Contact me 📫
 <a target="_blank" href="https://www.linkedin.com/in/ana-c-b-magalhaes/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
 <a target="_blank" href="mailto:carol2015bortolini@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
 
