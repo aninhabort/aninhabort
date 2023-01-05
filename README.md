@@ -44,7 +44,7 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
 
 ## Portfolio 📝
 <a target="_blank" href="https://aninhabort.github.io/">
-  <img style="width: 50px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 
 [![Codesanxbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/aninhabort)
