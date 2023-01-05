@@ -18,7 +18,6 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
 ## Currently Learning 🌱
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-
 ## My Skills 💼
 ### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,5 +45,6 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
 <a target="_blank" href="https://aninhabort.github.io/">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
-
 [![Codesanxbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/aninhabort)
+
+[![ByMeACoffee]](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
