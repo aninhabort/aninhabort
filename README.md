@@ -10,11 +10,6 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
   Languages: Portuguese (fluent), English (intermediate)
 </h4>
 
-### Contact me 📫
-<a target="_blank" href="https://www.linkedin.com/in/ana-c-b-magalhaes/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
-<a target="_blank" href="mailto:carol2015bortolini@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
-<br>
-
 ## Currently Learning 🌱
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -47,5 +42,9 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
 </a>
 
 [![Codesanxbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/aninhabort)
+
+### Contact me 📫
+<a target="_blank" href="https://www.linkedin.com/in/ana-c-b-magalhaes/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
+<a target="_blank" href="mailto:carol2015bortolini@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
 
 [![ByMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aninhabort)
