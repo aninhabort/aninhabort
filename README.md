@@ -33,8 +33,8 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Statistics 📈
-![Ana's Github Stats](https://github-readme-stats.vercel.app/api?username=aninhabort&theme=dracula)
-![Ana's Github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=default)
+![Ana's Github Stats](https://github-readme-stats.vercel.app/api?username=aninhabort&theme=buefy)
+![Ana's Github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=buefy)
 
 ## Portfolio 📝
 <a href="https://aninhabort.github.io/">
