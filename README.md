@@ -34,7 +34,7 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
 
 ## Statistics 📈
 ![Ana's Github Stats](https://github-readme-stats.vercel.app/api?username=aninhabort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Ana's Github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=dracula)
+![Ana's Github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=dafault)
 
 ## Portfolio 📝
 <a href="https://aninhabort.github.io/">
