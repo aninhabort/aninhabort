@@ -48,3 +48,5 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
 <a href="mailto:carol2015bortolini@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
 
 [![ByMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aninhabort)
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="aninhabort" data-color="#fafafa" data-emoji=""  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
