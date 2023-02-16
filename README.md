@@ -2,15 +2,17 @@
 
 # Hi there, I'm Ana Carolina 👋
 
-:rocket: Front-End Development, currently studying  Web Development at Trybe
+🚀 Front-End Development, currently studying  Web Development at Trybe
 
-:earth_americas: I live in Brazil and speak: Portuguese (Native), English (Intermediate and learning), Franch (Basic), Spanish (Basic), Japanese (Learning).
+🌎 I live in Brazil and speak: Portuguese (Native), English (Intermediate and learning), Franch (Basic), Spanish (Basic), Japanese (Learning).
 
-:computer: HTML, CSS, Javascript, Typescript and ReactJS are my main working technologies.
+💻 I'm currently doing a project in TypeScript and learning Object Orientation.
 
-:star: I love learning about coding.
+⭐ I'm chasing knowledge to evolve my developer career.
 
-:books: Bachelor of Arquitecture and Urbanism
+🎮 My hobbies are playing video games and beach tennis.
+
+📚 Bachelor of Arquitecture and Urbanism.
 
 ## Currently Learning 🌱
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
