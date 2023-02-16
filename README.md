@@ -1,14 +1,16 @@
 <img align="right" width="250px" src="https://user-images.githubusercontent.com/84690257/188514618-d1d03529-1a30-4e51-8d22-a1359117732f.png">
-<h3>
-Hi there, I'm Ana Carolina 👋
-</h3>
 
-<h2>
-I'm a Bachelor of Architecture and Urbanism, currently studying Web Development at Trybe
-</h2> 
-<h4>
-  Languages: Portuguese (fluent), English (intermediate), Japanese (basic)
-</h4>
+# Hi there, I'm Ana Carolina 👋
+
+:rocket: Front-End Development, currently studying  Web Development at Trybe
+
+:earth_americas: I live in Brazil and speak: Portuguese (Native), English (Intermediate and learning), Franch (Basic), Spanish (Basic), Japanese (Learning).
+
+:computer: HTML, CSS, Javascript, Typescript and ReactJS are my main working technologies.
+
+:star: I love learning about coding.
+
+:books: Bachelor of Arquitecture and Urbanism
 
 ## Currently Learning 🌱
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
