@@ -7,7 +7,7 @@ Hi there, I'm Ana Carolina 👋
 I'm a Bachelor of Architecture and Urbanism, currently studying Web Development at Trybe
 </h2> 
 <h4 align="center">
-  Languages: Portuguese (fluent), English (intermediate)
+  Languages: Portuguese (fluent), English (intermediate), Japanese (basic)
 </h4>
 
 ## Currently Learning 🌱
