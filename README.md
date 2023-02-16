@@ -3,10 +3,10 @@
 Hi there, I'm Ana Carolina 👋
 </h3>
 
-<h2 align="center">
+<h2>
 I'm a Bachelor of Architecture and Urbanism, currently studying Web Development at Trybe
 </h2> 
-<h4 align="center">
+<h4>
   Languages: Portuguese (fluent), English (intermediate), Japanese (basic)
 </h4>
 
