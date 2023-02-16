@@ -2,7 +2,9 @@
 
 # Hi there, I'm Ana Carolina 👋
 
-🔭 I'm currently learning TypeScript and mongoDB. 
+🔭 I'm currently working on Car Shop Project. 
+
+🌱 I'm currently learning TypeScript and mongoDB.
 
 🎓 Studying Web Development.
 
