@@ -1,6 +1,6 @@
 <img align="right" width="250px" src="https://user-images.githubusercontent.com/84690257/188514618-d1d03529-1a30-4e51-8d22-a1359117732f.png">
 
-# Hi there, I'm Ana Carolina 👋
+# 👋 Hi there, I'm Ana Carolina 
 
 🔭 I'm currently working on Car Shop Project. 
 
@@ -35,7 +35,7 @@
 [![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=aninhabort)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort)](https://github.com/anuraghazra/github-readme-stats)
 
-## Connect with me 🤝🏻
+## 🤝🏻 Connect with me 
 <a href="(https://www.linkedin.com/in/ana-magalhaes-dev/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
 <a href="mailto:carol2015bortolini@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
 
