@@ -38,13 +38,6 @@ I'm a Bachelor of Architecture and Urbanism, currently studying Web Development 
 [![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=aninhabort)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort)](https://github.com/anuraghazra/github-readme-stats)
 
-## Portfolio 📝
-<a href="https://aninhabort.github.io/">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-</a>
-
-[![Codesanxbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/aninhabort)
-
 ## My social media 📫
 <a href="(https://www.linkedin.com/in/ana-magalhaes-dev/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
 <a href="mailto:carol2015bortolini@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
