@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Ana Carolina 
 
-🔭 I'm currently working on Car Shop Project. 
+🔭 I'm currently working on a group project. 
 
 🌱 I'm currently learning TypeScript and mongoDB.
 
