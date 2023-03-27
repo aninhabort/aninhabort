@@ -2,9 +2,9 @@
 
 # 👋 Hi there, I'm Ana Carolina 
 
-🔭 I'm currently working on a group project. 
+🔭 I'm currently working on an individual project. 
 
-🌱 I'm currently learning TypeScript and mongoDB.
+🌱 I'm currently learning Python.
 
 🎓 Studying Web Development.
 
@@ -31,6 +31,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 [![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=aninhabort)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort)](https://github.com/anuraghazra/github-readme-stats)
