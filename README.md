@@ -34,6 +34,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 [![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=aninhabort)](https://github.com/anuraghazra/github-readme-stats)
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝🏻 Connect with me 
