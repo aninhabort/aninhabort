@@ -10,7 +10,7 @@
 
 💼 Bachelor of Arquitecture and Urbanism.
 
-🌎 I live in Brazil and speak: Portuguese (Native), English (Intermediate and learning), Franch (Basic), Spanish (Basic), Japanese (Learning).
+🌎 I live in Brazil and speak: Portuguese (Native), English (Intermediate and learning), French (Basic), Spanish (Basic), Japanese (Learning).
 
 🤔 I'm chasing knowledge to evolve my developer career.
 
