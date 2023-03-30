@@ -2,8 +2,7 @@
 
 # 👋 Hi there, I'm Ana Carolina 
 
-🔭 I'm currently working on an individual project. 
-
+<!-- 🔭 I'm currently working on an individual project. -->
 🌱 I'm currently learning Python.
 
 🎓 Studying Web Development.
