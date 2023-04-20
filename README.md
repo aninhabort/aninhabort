@@ -1,4 +1,4 @@
-<img src="./header.png">
+<img height="250px" src="./header.png">
 
 🌱 I'm currently learning Python and algorithms.
 
@@ -12,7 +12,8 @@
 
 🎮 My hobbies are playing video games, beach tennis, watching anime and kdrama.
 
-## 🛠 Tech Stack 
+<h2>🛠 Tech Stack</h2>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,6 +23,8 @@
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+<br>
+
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -29,10 +32,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-[![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=aninhabort)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-## 🤝🏻 Connect with me 
-<a href="(https://www.linkedin.com/in/ana-magalhaes-dev/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
-<a href="mailto:carol2015bortolini@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=aninhabort&theme=omni">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=omni">
+
+<br>
+<h2>🤝🏻 Connect with me</h2> 
+<a href="(https://www.linkedin.com/in/ana-magalhaes-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
+<a href="mailto:carol2015bortolini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ana Carolina | LinkedIn"/></a>
