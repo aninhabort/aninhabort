@@ -1,6 +1,5 @@
-<img align="right" width="250px" src="https://user-images.githubusercontent.com/84690257/188514618-d1d03529-1a30-4e51-8d22-a1359117732f.png">
+<img src="./header.png">
 
-# 👋 Hi there, I'm Ana Carolina 
 <!-- 🔭 I'm currently working on an individual project. -->
 🌱 I'm currently learning Python and algorithms.
 
