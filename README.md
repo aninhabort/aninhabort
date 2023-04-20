@@ -1,11 +1,10 @@
 <img src="./header.png">
 
-<!-- 🔭 I'm currently working on an individual project. -->
 🌱 I'm currently learning Python and algorithms.
 
-🎓 Studying Web Development.
+🎓 Studying Web Development at <a href='https://www.betrybe.com/'>Trybe</a>.
 
-💼 Bachelor of Arquitecture and Urbanism.
+💼 Bachelor of Arquitecture and Urbanism at <a href='https://www.faesa.br/'>Faesa Centro Universitário</a>.
 
 🌎 I live in Brazil and speak: Portuguese (Native), English (Intermediate and learning), French (Basic), Spanish (Basic), Japanese (Learning).
 
