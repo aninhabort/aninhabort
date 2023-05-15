@@ -1,6 +1,6 @@
 <img height="200px" src="./header.png">
 
-🌱 I'm currently learning Python and algorithms.
+🌱 I'm currently learning Python and Pandas.
 
 🎓 Studying Web Development at <a href='https://www.betrybe.com/'>Trybe</a>.
 
