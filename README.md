@@ -1,4 +1,4 @@
-<img height="250px" src="./header.png">
+<img height="200px" src="./header.png">
 
 🌱 I'm currently learning Python and algorithms.
 
