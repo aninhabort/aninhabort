@@ -1,6 +1,6 @@
 <img height="200px" src="./header.png">
 
-🌱 I'm currently learning more about React and doing a project in React about an Rocketseat Ignite's Feed App.
+🌱 I'm currently learning more about React and doing a project in React about an <a href='https://www.rocketseat.com.br/'>Rocketseat</a> Ignite's Feed App.
 
 🎓 I took a Web Development course at <a href='https://www.betrybe.com/'>Trybe</a>.
 
