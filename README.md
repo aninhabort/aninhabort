@@ -2,7 +2,7 @@
 
 🌱 I'm currently learning more about React.
 
-🎓 I studied Web Development at <a href='https://www.betrybe.com/'>Trybe</a>.
+🎓 I took a Web Development course at <a href='https://www.betrybe.com/'>Trybe</a>.
 
 💼 Bachelor of Arquitecture and Urbanism at <a href='https://www.faesa.br/'>Faesa Centro Universitário</a>.
 
