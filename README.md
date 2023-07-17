@@ -37,6 +37,3 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=omni">
-
-<h2>🤝🏻 Connect with me</h2> 
-<a href="(https://www.linkedin.com/in/ana-magalhaes-dev/"><img height='30px' src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Ana Carolina | LinkedIn"/></a>
