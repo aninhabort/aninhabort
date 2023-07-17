@@ -31,9 +31,5 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=aninhabort&theme=omni">
-
-<br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=omni">
+<img src="https://github-readme-stats.vercel.app/api?username=aninhabort&theme=omni">
