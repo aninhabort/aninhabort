@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200px" src="./header.png">
+  <img height="250px" width="100%" src="./header.png">
 
   <h2>I'm a frontend developer and architect</h2>
   <img src="https://static.vecteezy.com/system/resources/previews/013/166/906/original/people-working-at-home-office-and-typing-laptop-online-free-png.png" width="300px" align="right" />
