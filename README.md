@@ -34,7 +34,10 @@
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=omni" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aninhabort&theme=omni" align="right">
+
+  <h2>📈 My Github History</h2>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=omni" height="200px">
+    <img src="https://github-readme-stats.vercel.app/api?username=aninhabort&theme=omni" height="200px">
+  </div>
 </div>
