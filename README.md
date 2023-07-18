@@ -1,16 +1,21 @@
-<img height="200px" src="./header.png">
+<div align="center">
+  <img height="200px" src="./header.png">
 
-🌱 I'm currently learning more about React. Doing a project in React and Vite about a <a href='https://www.rocketseat.com.br/'>Rocketseat</a> Ignite Feed App.
+<h2>I'm a frontend developer and architect</h2>
+<img src="https://static.vecteezy.com/system/resources/previews/013/166/906/original/people-working-at-home-office-and-typing-laptop-online-free-png.png" width="300px" align="right" />
 
-🎓 I took a Web Development course at <a href='https://www.betrybe.com/'>Trybe</a>.
+<div align="left">
+  <li>🌱 I'm currently learning more about React. Doing a project in React and Vite about a <a href='https://www.rocketseat.com.br/'>Rocketseat</a> Ignite Feed App.</li>
+<li>🎓 I took a Web Development course at <a href='https://www.betrybe.com/'>Trybe</a>.</li>
+<li>💼 Bachelor of Arquitecture and Urbanism at <a href='https://www.faesa.br/'>Faesa Centro Universitário</a>.</li>
+<li>🌎 I live in Brazil and speak: Portuguese (Native), English (Intermediate and learning), French (Basic), Japanese (Learning).</li>
+<li>🤔 I'm chasing knowledge to evolve my developer career.</li>
+<li>🎮 My hobbies are playing video games, beach tennis, watching anime and kdrama.</li>
+</div>
 
-💼 Bachelor of Arquitecture and Urbanism at <a href='https://www.faesa.br/'>Faesa Centro Universitário</a>.
-
-🌎 I live in Brazil and speak: Portuguese (Native), English (Intermediate and learning), French (Basic), Japanese (Learning).
-
-🤔 I'm chasing knowledge to evolve my developer career.
-
-🎮 My hobbies are playing video games, beach tennis, watching anime and kdrama.
+<h2>🤝 Connect with me </h2>
+<a href="mailto:carol2015bortolini@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="30px" /></a>
+<a href="https://www.linkedin.com/in/ana-magalhaes-dev/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="30px" /></a>
 
 <h2>🛠 Tech Stack</h2>
 
@@ -30,6 +35,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-<img src="https://github-readme-stats.vercel.app/api?username=aninhabort&theme=omni">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=omni">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=omni" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=aninhabort&theme=omni" align="right">
+</div>
