@@ -40,4 +40,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=omni" height="200px">
     <img src="https://github-readme-stats.vercel.app/api?username=aninhabort&theme=omni" height="200px">
   </div>
+  
+  <br>
+  <a href="https://www.buymeacoffee.com/aninhabort" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  
 </div>
