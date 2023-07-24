@@ -5,12 +5,12 @@
   <img src="https://static.vecteezy.com/system/resources/previews/013/166/906/original/people-working-at-home-office-and-typing-laptop-online-free-png.png" width="300px" align="right" />
 
   <div align="left">
-    <li>🌱 I'm currently learning more about React. Doing a project in React and Vite about a <a href='https://www.rocketseat.com.br/'>Rocketseat</a> Ignite Feed App.</li>
-  <li>🎓 I took a Web Development course at <a href='https://www.betrybe.com/'>Trybe</a>.</li>
-  <li>💼 Bachelor of Arquitecture and Urbanism at <a href='https://www.faesa.br/'>Faesa Centro Universitário</a>.</li>
-  <li>🌎 I live in Brazil and speak: Portuguese (Native), English (Intermediate and learning), French (Basic), Japanese (Learning).</li>
-  <li>🤔 I'm chasing knowledge to evolve my developer career.</li>
-  <li>🎮 My hobbies are playing video games, beach tennis, watching anime and kdrama.</li>
+    <li>🌱 I'm currently learning more about React. Doing a projects in React and Vite.
+    <li>🎓 I took a Web Development course at <a href='https://www.betrybe.com/'>Trybe</a>.</li>
+    <li>💼 Bachelor of Arquitecture and Urbanism at <a href='https://www.faesa.br/'>Faesa Centro Universitário</a>.</li>
+    <li>🌎 I live in Brazil and speak: Portuguese (Native), English (Intermediate and learning), French (Basic), Japanese (Learning).</li>
+    <li>🤔 I'm chasing knowledge to evolve my developer career.</li>
+    <li>🎮 My hobbies are playing video games, beach tennis, watching anime and kdrama.</li>
   </div>
 
   <h2>🤝 Connect with me </h2>
