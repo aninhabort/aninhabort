@@ -47,8 +47,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=aninhabort&theme=omni" height="200px">
   </div>
   
-  <br>
-  <a href="https://www.buymeacoffee.com/aninhadev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-  <br>
-  
 </div>
