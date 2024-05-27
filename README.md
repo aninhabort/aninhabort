@@ -47,6 +47,5 @@
   </div>
   <br/>
 
-  <h3>✨ Check it out!</h3>
-  <a target="_blank" href="https://www.amazon.com.br/gp/bestsellers/books/7842641011/ref=zg_bs_nav_books_1?&_encoding=UTF8&tag=aninha050-20&linkCode=ur2&linkId=1f77d96361626007f420197e00ca80f2&camp=1789&creative=9325">📚 Best-selling Programming Books</a>
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C658NHJ)
 </div>
