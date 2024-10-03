@@ -10,16 +10,7 @@
     <li>💼 Bachelor of Arquitecture and Urbanism at <a href='https://www.faesa.br/'>Faesa Centro Universitário</a>.</li>
     <li>🌎 I live in Brazil and speak: Portuguese (Native), English (Intermediate and learning), French (Basic), Japanese (Learning).</li>
     <li>🤔 I'm chasing knowledge to evolve my developer career.</li>
-    <li>🎮 My hobbies are playing video games, beach tennis, watching anime, and kdrama.</li>
   </div>
-
-<h2>🤝 Connect with me</h2>
-<div>
-  <a href="mailto:carol2015bortolini@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ana-magalhaes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/neo.coders/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://medium.com/@aninhabort" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a>
-</div>
 
 <h2>🛠 Tech Stack</h2>
 <div>
@@ -47,5 +38,13 @@
   </div>
   <br/>
 
+  <h2>🤝 Connect with me</h2>
+  <div>
+    <a href="mailto:carol2015bortolini@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/ana-magalhaes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/neo.coders/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://medium.com/@aninhabort" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a>
+  </div>
+  
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C658NHJ)
 </div>
