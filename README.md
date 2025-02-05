@@ -12,7 +12,9 @@
     <li>🤔 I'm chasing knowledge to evolve my developer career.</li>
   </div>
 
-<h2>🛠 Tech Stack</h2>
+</br>
+
+<h2>Tech Stack</h2>
 <div>
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +31,7 @@
   
 </div>
 
-  <h2>📈 My Github History</h2>
+  <h2>My Github History</h2>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=omni" height="200px">
     &nbsp
@@ -37,7 +39,7 @@
   </div>
   <br/>
 
-  <h2>🤝 Connect with me</h2>
+  <h2>Connect with me</h2>
   <div>
     <a href="mailto:carol2015bortolini@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/ana-magalhaes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
