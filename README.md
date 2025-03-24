@@ -49,6 +49,4 @@
     <a href="https://www.figma.com/@anabmagalhaes" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/></a>
   </div>
   </br>
-  
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C658NHJ)
 </div>
