@@ -31,14 +31,6 @@
   
 </div>
 
-  <h2>My Github History</h2>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhabort&theme=omni" height="200px">
-    &nbsp
-    <img src="https://github-readme-stats.vercel.app/api?username=aninhabort&theme=omni" height="200px">
-  </div>
-  <br/>
-
   <h2>Connect with me</h2>
   <div>
     <a href="mailto:carol2015bortolini@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
